@@ -1,5 +1,3 @@
-export default function
-returnHowManyArguments(...t
-heArgs) {
-	return theArgs.length;
+export default function returnHowManyArguments(...args) {
+  return args.length;
 }
